@@ -16,5 +16,14 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "Apple Mac mini (2024) with the M4 chip, configured with 16GB of RAM and a 256GB SSD. This compact desktop runs macOS and includes Apple Intelligence features from the M4 platform, offering strong CPU and integrated GPU performance in a small, quiet chassis suitable for home or office use.",
+      "price": 400.0,
+      "url": "https://www.dealnews.com/products/Apple/Apple-Mac-mini-M4-Desktop-2024-w-256-GB-SSD/484139.html?iref=rss-c39"
+    },
+    "estimate": 1055.4506408691407,
+    "discount": 655.4506408691407
   }
 ]

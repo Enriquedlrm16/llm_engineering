@@ -189,7 +189,7 @@ class App:
 
             opportunities_dataframe.select(do_select)
 
-        ui.launch(share=False, inbrowser=True)
+        ui.launch(share=False, inbrowser=False)
 
 
 if __name__ == "__main__":
